@@ -13,7 +13,15 @@ pnpm dev
 # or
 bun dev
 ```
+![Image](https://github.com/user-attachments/assets/ae6928fb-e04b-4aed-8f7a-05494e044173)
 
+![Image](https://github.com/user-attachments/assets/d7299f98-aeeb-4e54-bd67-148f10935554)
+
+![Image](https://github.com/user-attachments/assets/113e0d71-9b9f-4eba-afe4-229d71876cc9)
+
+![Image](https://github.com/user-attachments/assets/04d1e581-95ea-4fd9-b324-1e92699bccbc)
+
+![Image](https://github.com/user-attachments/assets/3640ff6c-b770-4b88-a8da-45069f4317fc)
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
